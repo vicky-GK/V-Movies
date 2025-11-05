@@ -1,0 +1,41 @@
+{
+  "movies":[
+  {"id":1,
+    "name":"Dragon",
+    "description":"A pradeep ranganathan film with a unique storyline in Ashwath marimuthu Direction",
+    "image":"/assets/Dragon.jpg",
+    "rating":4.5,
+    "watch":"https://play.onestream.watch/stream/page/89549"
+   },{
+    "id":2,
+    "name":"Love Today",
+    "description":"A pradeep ranganathan film with a unique storyline in His Direction",
+    "image":"/assets/LoveToday.webp",
+    "rating":4.0,
+    "watch":"https://play.onestream.watch/stream/page/77063"
+   },{
+    "id":3,
+    "name":"Dude",
+    "description":"A pradeep ranganathan film with a unique storyline in Keerthiswaran Direction",
+    "image":"/assets/Dude.webp",
+    "rating":3.5,
+    "watch":"https://play.onestream.watch/stream/page/93296"
+   },
+   {
+    "id":4,
+    "name":"Comali",
+    "description":"A pradeep ranganathan film with a unique storyline in Pradeep Direction",
+    "image":"/assets/comali.webp",
+    "rating":4.2,
+    "watch":"https://play.onestream.watch/stream/page/61780"
+   },
+   {
+    "id":5,
+    "name":"LIK (Love Insurance Kompany)",
+    "description":"A pradeep ranganathan film with a unique storyline in Vicky Direction",
+    "image":"/assets/LIK.webp",
+    "rating":"N/A",
+    "watch":"N/A"
+  }
+]
+}
