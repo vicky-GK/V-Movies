@@ -7,6 +7,7 @@ function Movies(props){
 
 function watchMovie(){
   if (props.watch) {
+    alert("Kindly Watch in Brave to Avoid Ads \nEnjoy your movie!");
     window.open(props.watch, "_blank", "noopener,noreferrer");
   }
   setWatch(true);
